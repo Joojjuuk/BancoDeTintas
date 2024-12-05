@@ -6,7 +6,7 @@ Este projeto é um sistema **CRUD** (*Create, Read, Update, Delete*) desenvolvid
 - O sistema inclui funcionalidades completas de **CRUD**.  
 - As funções podem ser ajustadas conforme o contexto da aplicação.  
 - A funcionalidade depende de:  
-  - Banco de dados configurado corretamente com o nome especificado dentro do database.php.  
+  - Banco de dados configurado corretamente com o nome especificado dentro do 'database.php'.  
   - Estrutura de tabelas importada do arquivo na pasta `arquivo.sql` incluso no projeto.  
 
 ---
